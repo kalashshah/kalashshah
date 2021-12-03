@@ -16,12 +16,9 @@
 
 <br/>
 <h2> My GitHub Stats</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kalashshah&count_private=true&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashshah&theme=merko" />
-</a>
-<br/><br/><br/>
+
+[![Kalash's github stats](https://github-readme-stats.vercel.app/api?username=kalashshah&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalashshah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kalashshah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
