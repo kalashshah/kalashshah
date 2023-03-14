@@ -18,7 +18,7 @@
 <h2> My GitHub Stats</h2>
 
 [![Kalash's github stats](https://github-readme-stats.vercel.app/api?username=kalashshah&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalashshah&layout=compact&hide=dart)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalashshah&layout=compact&hide=jupyter%20notebook,dart,handlebars,ejs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalashshah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
